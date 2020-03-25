@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2675a598-938b-4850-adcb-9ce5051d9170" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNL3cihoRjzEM95zGic8ntXMRY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Usuario">
+    <configuration name="PesquisaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PesquisaTarefa" />
+      <module name="ProjetoLembrete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaDao" />
+      <module name="ProjetoLembrete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaPesquis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaPesquis" />
+      <module name="ProjetoLembrete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaPesquisa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaPesquisa" />
+      <module name="ProjetoLembrete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Usuario" />
+      <module name="ProjetoLembrete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Usuario" />
+        <item itemvalue="Application.PesquisaTarefa" />
+        <item itemvalue="Application.TestaPesquisa" />
+        <item itemvalue="Application.TestaPesquis" />
+        <item itemvalue="Application.TestaDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2675a598-938b-4850-adcb-9ce5051d9170" name="Default Changelist" comment="" />
+      <created>1584674406371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584674406371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="22" key="#Project_Structure" timestamp="1584674417454">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#Project_Structure/0.0.1360.728@0.0.1360.728" timestamp="1584674417454" />
+    <state x="485" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1585096222081">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1585096222081" />
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585101261751">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1585101261751" />
+    <state x="386" y="105" key="FileChooserDialogImpl" timestamp="1585166280640">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="386" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1585166280640" />
+    <state width="1317" height="272" key="GridCell.Tab.0.bottom" timestamp="1585165961772">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="272" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585165961772" />
+    <state width="1317" height="272" key="GridCell.Tab.0.center" timestamp="1585165961772">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="272" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585165961772" />
+    <state width="1317" height="272" key="GridCell.Tab.0.left" timestamp="1585165961771">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="272" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585165961771" />
+    <state width="1317" height="272" key="GridCell.Tab.0.right" timestamp="1585165961772">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="272" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585165961772" />
+    <state width="1317" height="128" key="GridCell.Tab.1.bottom" timestamp="1585165419162">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="128" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585165419162" />
+    <state width="1317" height="128" key="GridCell.Tab.1.center" timestamp="1585165419161">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="128" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1585165419161" />
+    <state width="1317" height="128" key="GridCell.Tab.1.left" timestamp="1585165419161">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="128" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1585165419161" />
+    <state width="1317" height="128" key="GridCell.Tab.1.right" timestamp="1585165419162">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="128" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1585165419162" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1584675203476">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1584675203476" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585156784241">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585156784241" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1585093082651">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1585093082651" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585094917040">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1585094917040" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Usuario.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
